@@ -1,0 +1,55 @@
+DWD ARTWORK IMAGE GUIDE
+======================
+
+The Charizard artwork photo is already included as charizard.jpg and is
+connected to the homepage hero, featured piece, and mystery gallery. Add the
+following owner-approved JPG photographs to this folder as they become
+available:
+
+  pikachu.jpg
+  gengar.jpg
+  custom-familiar.jpg
+  fantasy-relic.jpg
+  midnight-continue.jpg
+
+The first three names are used by the featured collection and mystery gallery.
+The remaining names are used by the custom-art section.
+
+Preparation
+-----------
+- Use photographs of artwork you own or are authorized to publish.
+- Use JPG/JPEG format and preserve the exact lowercase filenames above.
+- Crop/compose each photograph around the artwork; square or portrait images
+  work well in the responsive card layouts.
+- Optimize images for the web. Aim for roughly 300 KB or less per photograph
+  where practical; retain enough resolution for clear display.
+- Avoid spaces in filenames and do not change the paths in index.html unless
+  you also update every corresponding gallery entry.
+
+Connect photos to the page
+--------------------------
+For each new photo, open index.html, find its artwork container, and add an img
+element immediately before that container's fallback span. The Charizard
+elements already demonstrate the pattern. For the hero card, use:
+
+  <img src="images/charizard.jpg" alt="" data-artwork-image
+       fetchpriority="high" decoding="async">
+
+Use loading="lazy" decoding="async" for the other gallery images. Charizard,
+Pikachu, and Gengar appear in both the featured collection and mystery
+gallery, so add their img element in both sections. Custom photos belong in
+their matching custom-image containers. Keep alt="" when the adjacent button
+or caption already provides the artwork name and the image is decorative;
+otherwise provide concise descriptive alt text. The existing script detects
+successful image loads and preserves the placeholder when no photo is added.
+
+Missing photographs
+-------------------
+The site includes designed artwork placeholders. Until other JPGs are added
+and connected, those panels show their placeholders. If any connected photo
+is missing, the placeholder remains visible instead of breaking the layout.
+
+Copyright and identity
+----------------------
+Use original DWD artwork photography or assets you have permission to display.
+Do not add official Pokémon logos, card templates, fonts, or character artwork.
