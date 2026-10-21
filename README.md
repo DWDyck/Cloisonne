@@ -1,6 +1,6 @@
 # DWD — Handmade Cloisonné & Resin Card Art
 
-DWD is an independent artist portfolio for physical, handmade cloisonné and resin artwork inspired by Pokémon and collectible card culture. The one-page site presents featured originals, a reveal gallery, custom artwork, the making process, the artist, and commission inquiries.
+DWD is an independent artist portfolio for physical, handmade cloisonné and resin artwork inspired by Pokémon and collectible card culture. The one-page site introduces the cloisonné technique, presents a reveal gallery and custom artwork, and shares the making process, the artist, and commission inquiries.
 
 Featured pieces are listed at $500 each. Custom commission pricing is discussed after a project brief. This is a static portfolio; it has no checkout or server-side form processing.
 
