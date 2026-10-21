@@ -1,5 +1,9 @@
 # DWD — Handmade Cloisonné & Resin Card Art
 
+## 🌐 Live site: [dwdike-maker.github.io/Cloisonne](https://dwdike-maker.github.io/Cloisonne/)
+
+> **About this project:** an experiment in using AI to build interesting web use cases. Here the use case is an artist portfolio with a reveal gallery and commission inquiry flow, built as a static site.
+
 DWD is an independent artist portfolio for physical, handmade cloisonné and resin artwork inspired by Pokémon and collectible card culture. The one-page site introduces the cloisonné technique, presents a reveal gallery and custom artwork, and shares the making process, the artist, and commission inquiries.
 
 Featured pieces are listed at $500 each. Custom commission pricing is discussed after a project brief. This is a static portfolio; it has no checkout or server-side form processing.
