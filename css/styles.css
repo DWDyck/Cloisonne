@@ -3250,7 +3250,7 @@ a:hover {
 
 .site-nav a:hover,
 .site-nav a.is-current {
-  color: var(--primary);
+  color: var(--primary-hover);
 }
 
 .site-nav a.is-current:not(.nav-commission)::after {
@@ -3324,17 +3324,17 @@ h2 em {
 }
 
 .button--gold {
-  border-color: var(--primary);
-  color: #ffffff;
-  background: var(--primary);
-  box-shadow: 0 0.4rem 1.3rem rgb(229 45 39 / 18%);
-}
-
-.button--gold:hover {
   border-color: var(--primary-hover);
   color: #ffffff;
   background: var(--primary-hover);
-  box-shadow: 0 0.5rem 1.5rem rgb(194 30 30 / 22%);
+  box-shadow: 0 0.4rem 1.3rem rgb(194 30 30 / 18%);
+}
+
+.button--gold:hover {
+  border-color: #a81e1e;
+  color: #ffffff;
+  background: #a81e1e;
+  box-shadow: 0 0.5rem 1.5rem rgb(168 30 30 / 22%);
 }
 
 .button--outline {
