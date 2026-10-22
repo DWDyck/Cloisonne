@@ -1,6 +1,6 @@
 # DWD — Handmade Cloisonné & Resin Card Art
 
-## 🌐 Live site: [dwdike-maker.github.io/Cloisonne](https://dwdike-maker.github.io/Cloisonne/)
+## 🌐 Live site: [dwdyck.github.io/Cloisonne](https://dwdyck.github.io/Cloisonne/)
 
 > **About this project:** an experiment in using AI to build interesting web use cases. Here the use case is an artist portfolio with a reveal gallery and commission inquiry flow, built as a static site.
 

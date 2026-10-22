@@ -4,7 +4,7 @@ Guidance for AI coding agents. Read this first; it should get you productive in 
 
 ## Project Overview
 
-**What it is:** A one-page portfolio site for "DWD", an artist making handmade cloisonné and resin card art inspired by Pokémon and collectible cards. It showcases featured pieces, a "reveal" mystery gallery, the making process, and a commission inquiry form. Live at https://dwdike-maker.github.io/Cloisonne/
+**What it is:** A one-page portfolio site for "DWD", an artist making handmade cloisonné and resin card art inspired by Pokémon and collectible cards. It showcases featured pieces, a "reveal" mystery gallery, the making process, and a commission inquiry form. Live at https://dwdyck.github.io/Cloisonne/
 
 **Primary users:** Collectors and prospective commission clients browsing (mostly on phones) and deciding whether to inquire.
 
